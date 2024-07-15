@@ -52,7 +52,7 @@ async function getNames(){
 
   <div className="relative overflow-x-auto shadow-md sm:rounded-lg my-4">
   <table className="w-full text-lg text-center rtl:text-right text-gray-500 dark:text-gray-400">
-    <thead className="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400 text-center">
+    <thead className="text-xs text-gray-700 uppercase bg-blue-200 dark:bg-gray-700 dark:text-gray-400 text-center">
       <tr>
         <th scope="col" className="px-6 py-3">
         Customer name
