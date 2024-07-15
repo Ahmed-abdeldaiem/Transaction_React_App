@@ -116,7 +116,7 @@ getRelatedsearch(formik.values.search)
   return <>
 
 {Loading ? <Loader/> :null}
-
+<h1 className='text-center text-blue-500 font-semibold text-3xl my-6'>Our Customers</h1>
   <form className="max-w-md mx-auto" onSubmit={formik.handleSubmit} onChange={formik.handleSubmit}>   
   <label htmlFor="search" className="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white">Search</label>
   <div className="relative">
