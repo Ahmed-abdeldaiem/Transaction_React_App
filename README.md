@@ -7,7 +7,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 Transaction_React_APP is Responsive , Tailwind Used with it..
-in the first page (home page) you found list of customers displayed in two ways you found ywo icon to change in display customers in cards or table..
+in the first page (home page) you found list of customers displayed in two ways you found two icon to change in display customers in cards or table..
 filter form available to take the filtration with customer name and amount that equal or greater to your input..
 by click on customer card or details icon in table you found other page will display with customer details and its charts..
 in both table and cards you found an icon to add customer and also a tab in nav bar ...
